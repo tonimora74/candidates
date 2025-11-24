@@ -1,7 +1,3 @@
-# Excel Example Folder
-
-There is an `excel` folder in the project containing example Excel files for testing and using this application. You can use these files to try the `/candidates` endpoint and validate the backend functionality.
-
 # Backend Summary: NestJS API
 
 ## Environment Configuration
@@ -130,3 +126,7 @@ This starts the Angular application in development mode.
 ## TODOs
 - Create interface for the "const environment"
 - Monorepo
+  
+# Excel Example Folder
+
+There is an `excel` folder in the project containing example Excel files for testing and using this application. You can use these files to try the `/candidates` endpoint and validate the backend functionality.
